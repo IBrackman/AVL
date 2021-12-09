@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVL", "AVL\AVL.csproj", "{4E694CE3-28EC-445F-B9E4-0A77637E157E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVLUnitTest", "AVLUnitTest\AVLUnitTest.csproj", "{1B297A5D-31E4-4629-A12C-7D1EA271431A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E694CE3-28EC-445F-B9E4-0A77637E157E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E694CE3-28EC-445F-B9E4-0A77637E157E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E694CE3-28EC-445F-B9E4-0A77637E157E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E694CE3-28EC-445F-B9E4-0A77637E157E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B297A5D-31E4-4629-A12C-7D1EA271431A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B297A5D-31E4-4629-A12C-7D1EA271431A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B297A5D-31E4-4629-A12C-7D1EA271431A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B297A5D-31E4-4629-A12C-7D1EA271431A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {535674C1-1E44-4AA0-860B-1EC675ACF77B}
+	EndGlobalSection
+EndGlobal
